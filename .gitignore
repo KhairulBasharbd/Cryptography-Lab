@@ -1,0 +1,19 @@
+# Ignore class files
+*.class
+
+# Ignore executable files
+*.exe
+
+# Ignore other build artifacts
+*.o
+*.out
+*.log
+
+# Ignore system-specific files (optional)
+.DS_Store  # macOS files
+Thumbs.db  # Windows files
+
+# Ignore IDE-specific files (optional)
+.idea/     # JetBrains IDEs (IntelliJ IDEA, PyCharm, etc.)
+.vscode/   # Visual Studio Code
+*.iml      # IntelliJ module files

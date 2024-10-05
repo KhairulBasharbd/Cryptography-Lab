@@ -41,7 +41,7 @@ string onetimepaddec(string ptext, string key){
 
 int main(){
 
-    ifstream in("onetimepad.txt");
+    ifstream in("5.txt");
     string ptext;
     getline(in,ptext);
     string key ="abcdefghijklmnopqrstuvwxyz";
